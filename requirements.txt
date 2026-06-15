@@ -1,0 +1,17 @@
+# ============================================================
+# Core dependencies
+# Versions below match the environment the project was tested in.
+# ============================================================
+
+# PyTorch — CUDA 12.1 build
+# CPU-only alternative: pip install torch==2.3.0 --index-url https://download.pytorch.org/whl/cpu
+torch==2.3.0
+
+# Deep Graph Library — must match the PyTorch version.
+# Install with: pip install dgl==2.2.1 -f https://data.dgl.ai/wheels/torch-2.3/cu121/repo.html
+# CPU-only:     pip install dgl==2.2.1 -f https://data.dgl.ai/wheels/torch-2.3/cpu/repo.html
+dgl==2.2.1
+
+networkx==3.6.1
+numpy==1.26.4
+tqdm==4.67.1
