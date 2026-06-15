@@ -1,4 +1,4 @@
-# qubo_gnn_solver
+# qubo-gnn-solver
 
 GNN-based solver for combinatorial optimisation problems formulated as QUBO
 (Quadratic Unconstrained Binary Optimization).  
