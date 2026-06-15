@@ -4,10 +4,10 @@ GNN-based solver for combinatorial optimisation problems formulated as QUBO
 (Quadratic Unconstrained Binary Optimization).  
 Supports two problems:
 
-| Problem | Solver | Reference |
-|---------|--------|-----------|
-| Maximum Weighted Independent Set (MWIS) | `mwis` | Schuetz et al. 2021; Pugacheva et al. 2024 |
-| Set Cover (unweighted, OR-Library) | `setcover` | — |
+| Problem | Solver |
+|---------|--------|
+| Maximum Weighted Independent Set (MWIS) | `mwis` |
+| Set Cover (unweighted, OR-Library) | `setcover` |
 
 ---
 
